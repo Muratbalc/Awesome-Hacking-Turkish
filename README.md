@@ -2,109 +2,109 @@
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
 
-**A collection of awesome lists for hackers, pentesters & security researchers.**
+**Hackerlar, sızma testi uzmanları (pentesters) ve güvenlik araştırmacıları için harika listeler koleksiyonu.**
 
-Your [contributions](contributing.md) are always welcome !
+[Katkılarınız](contributing.md) her zaman memnuniyetle karşılanır!
 
-## Awesome Repositories
+## Harika Depolar (Awesome Repositories)
 
-Repository | Description
+Depo | Açıklama
 ---- | ----
-[Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
-[Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
-[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
-[Celluar Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)    | This is a list of hacking research in the 3G/4G/5G cellular security space. 
-[CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
-[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
-[Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
-[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
-[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
-[Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
-[Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
-[Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
-[Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
-[InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
-[IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
-[Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) 				| List of Awesome Mainframe Hacking/Pentesting Resources
-[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
-[OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
-[OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
-[Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
-[Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
-[PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
-[Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking) | Covers VoIP, WebRTC and VoLTE security related topics
-[Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
-[Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
-[Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity) 							| List of awesome reinforcement learning for security resources
-[Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
-[SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
-[Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
-[Serverless Security](https://github.com/puresec/awesome-serverless-security/) 			| Collection of Serverless security related resources
-[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
-[Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
-[The Art of Hacking Series](https://github.com/The-Art-of-Hacking/h4cker)    | List of resources  includes thousands of cybersecurity-related references and resources
-[Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
-[Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
-[Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
-[Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
-[Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) | A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
-[Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | List of Awesome Advanced Windows Exploitation References
-[WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
-[YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
-[Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
-[Cybersources](https://github.com/brunoooost/cybersources) | A collection of all types of tools and resources for cybersecurity.
+[Android Security](https://github.com/ashishb/android-security-awesome)             | Android güvenliği ile ilgili kaynakların koleksiyonu
+[AppSec](https://github.com/paragonie/awesome-appsec)                               | Uygulama güvenliği (AppSec) hakkında bilgi edinmek için kaynaklar
+[Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | Bir güvenlik değerlendirmesi sırasında varlık keşfi (asset discovery) aşamasında yardımcı olan kaynakların listesi
+[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)                          | Bug Bounty Programlarının ve avcıların yazdığı write-up'ların listesi
+[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest)                          | Vagrant+Ansible sanal ağ sızma testi laboratuvarı. Royce Davis'in "The Art of Network Penetration Testing" kitabına eşlik eder
+[Celluar Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)    | 3G/4G/5G hücresel güvenlik alanındaki hacking araştırmalarının listesi
+[CTF](https://github.com/apsdehal/awesome-ctf)                                              | CTF frameworkleri, kütüphaneleri, kaynakları ve yazılımlarının listesi
+[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Siber becerilerinizi yasal ve güvenli bir şekilde eğitebileceğiniz hack ortamlarının küratörlü listesi
+[DevSecOps](https://github.com/devsecops/awesome-devsecops)                          | Topluluk deneyleri ve katkılarıyla derlenen harika DevSecOps araçları listesi
+[Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | Gömülü sistemler ve IoT güvenliği hakkında harika kaynakların küratörlü listesi
+[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)     | Exploit Geliştirmeyi öğrenmek için kaynaklar
+[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)                               | Kök neden analizi gibi Exploit Geliştirmenin ilk aşamaları ve Fuzzing öğrenimi için kaynaklar listesi
+[Hacking](https://github.com/carpedm20/awesome-hacking)                          | Harika Hacking eğitimleri, araçları ve kaynakları listesi
+[Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)       | Sizi daha iyi yapacak hacking / sızma testi kaynakları koleksiyonu!
+[Honeypots](https://github.com/paralax/awesome-honeypots)                             | Honeypot kaynakları listesi
+[Incident Response](https://github.com/meirwah/awesome-incident-response)             | Olay Müdahalesi (Incident response) araçları listesi
+[Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)       | Endüstriyel Kontrol Sistemi (ICS) güvenliği ile ilgili kaynakların listesi
+[InfoSec](https://github.com/onlurking/awesome-infosec)                             | Harika infosec kursları ve eğitim kaynakları listesi
+[IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)                             | IoT Alanındaki Hacklerin Koleksiyonu
+[Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking)                 | Harika Mainframe Hacking/Pentesting Kaynakları Listesi
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)                 | Harika zararlı yazılım (malware) analiz araçları ve kaynakları listesi
+[OSINT](https://github.com/jivoi/awesome-osint)                                      | Şaşırtıcı derecede harika Açık Kaynak İstihbaratı (OSINT) araçları ve kaynakları listesi
+[OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)     | OSX ve iOS ile ilgili güvenlik araçları
+[Pcaptools](https://github.com/caesar0301/awesome-pcaptools)                          | Ağ izlerini (network traces) işlemek için Bilgisayar Bilimleri alanındaki araştırmacılar tarafından geliştirilen araçlar koleksiyonu
+[Pentest](https://github.com/enaqx/awesome-pentest)                                 | Harika sızma testi (pentest) kaynakları, araçları ve diğer parlak şeylerin listesi
+[PHP Security](https://github.com/ziadoz/awesome-php#security)                          | Güvenli rastgele sayılar oluşturmak, verileri şifrelemek ve güvenlik açıklarını taramak için kütüphaneler
+[Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking) | VoIP, WebRTC ve VoLTE güvenliği ile ilgili konuları kapsar
+[Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | Harika Kırmızı Takım (Red Team) / Red Teaming Kaynakları Listesi
+[Reversing](https://github.com/fdivrp/awesome-reversing)                          | Harika tersine mühendislik (reverse engineering) kaynakları listesi
+[Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)                             | Güvenlik için harika pekiştirmeli öğrenme (reinforcement learning) kaynakları listesi
+[Sec Talks](https://github.com/PaulSec/awesome-sec-talks)                             | Harika güvenlik konuşmaları listesi
+[SecLists](https://github.com/danielmiessler/SecLists)                                 | Güvenlik değerlendirmeleri sırasında kullanılan çoklu liste türlerinin koleksiyonu
+[Security](https://github.com/sbilly/awesome-security)                                 | Güvenlik hakkında harika yazılımlar, kütüphaneler, belgeler, kitaplar, kaynaklar ve havalı şeylerin koleksiyonu
+[Serverless Security](https://github.com/puresec/awesome-serverless-security/)             | Sunucusuz (Serverless) mimari güvenliği ile ilgili kaynaklar koleksiyonu
+[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | Harika sosyal mühendislik kaynakları listesi
+[Static Analysis](https://github.com/mre/awesome-static-analysis)                     | Çeşitli programlama dilleri için statik analiz araçları, linterlar ve kod kalitesi denetleyicileri listesi
+[The Art of Hacking Series](https://github.com/The-Art-of-Hacking/h4cker)    | Binlerce siber güvenlik referansı ve kaynağı içeren liste
+[Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)         | Harika Tehdit İstihbaratı (Threat Intelligence) kaynakları listesi
+[Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)     | Araç güvenliği ve araba hackleme hakkında bilgi edinmek için kaynaklar listesi
+[Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | Zafiyet Araştırması (Vulnerability Research) hakkında kaynaklar listesi
+[Web Hacking](https://github.com/infoslack/awesome-web-hacking)                     | Web uygulama güvenliği listesi
+[Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) | Pentesterlar ve Bug Hunterlar için küratörlü web3 Güvenlik materyalleri ve kaynakları listesi
+[Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | Harika İleri Düzey Windows İstismarı (Exploitation) Referansları Listesi
+[WiFi Arsenal](https://github.com/0x90/wifi-arsenal)                                 | 802.11 hacking için çeşitli yararlı/yararsız araçlar paketi
+[YARA](https://github.com/InQuest/awesome-yara)                                     | Harika YARA kuralları, araçları ve insanları listesi
+[Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                              | Amatör pentesterlar için bir rehber ve etik hacking pratiği yapmak için hacking araçları, kaynakları ve referansları koleksiyonu
+[Cybersources](https://github.com/brunoooost/cybersources) | Siber güvenlik için her türlü araç ve kaynağın bir koleksiyonu
 
-## Other Useful Repositories
+## Diğer Yararlı Depolar (Other Useful Repositories)
 
-Repository | Description
+Depo | Açıklama
 ---- | ----
-[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Curated list of awesome adversarial machine learning resources
-[AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
-[API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
-[APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
-[Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
-[Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
-[CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
-[CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
-[CVE PoC updated daily](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
-[CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
-[Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
-[Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
-[Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
-[Gray Hacker Resources](https://github.com/bt3gl/Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
-[GTFOBins](https://gtfobins.github.io)	| A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
-[Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
-[Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
-[Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
-[IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
-[Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
-[Lockpicking](https://github.com/meitar/awesome-lockpicking) | Resources relating to the security and compromise of locks, safes, and keys.
-[Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
-[Payloads](https://github.com/foospidy/payloads)  | Collection of web attack payloads
-[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)   | List of useful payloads and bypass for Web Application Security and Pentest/CTF
-[Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
-[Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
-[Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Wordlists sorted by probability originally created for password generation and testing
-[Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
-[Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
-[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)  | Collection of Radio Frequency Communication Protocol Hacktools
-[Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| Collection of cheatsheets for various infosec tools and topics
-[Security List](https://github.com/zbetcheckin/Security_list)						 | Great security list for fun and profit
-[Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
-[ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
-[Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
-[Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
+[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Harika çekişmeli makine öğrenimi (adversarial machine learning) kaynaklarının küratörlü listesi
+[AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Yapay zeka güvenliği kaynaklarının küratörlü listesi
+[API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | API'nizi tasarlarken, test ederken ve yayınlarken alınması gereken en önemli güvenlik önlemleri kontrol listesi
+[APT Notes](https://github.com/kbandla/APTnotes)                                              | APT kampanyaları hakkında çeşitli kamuya açık belgeler, teknik raporlar ve makaleler
+[Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)             | Hata doğasına göre kategorize edilmiş bug bounty write-up listesi
+[Cryptography](https://github.com/sobolevn/awesome-cryptography) | Kriptografi kaynakları ve araçları
+[CTF Tool](https://github.com/SandySekharan/CTF-tool)                                 | Capture The Flag (CTF) frameworkleri, kütüphaneleri, kaynakları ve yazılımları listesi
+[CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | CVE Kavram Kanıtları (PoC) listesi
+[CVE PoC updated daily](https://github.com/trickest/cve) | Trickest tarafından günlük güncellenen CVE Kavram Kanıtları (PoC) listesi
+[CyberChef](https://gchq.github.io/CyberChef/) | Karmaşık araçlar veya programlama dilleriyle uğraşmak zorunda kalmadan verileri analiz etmek ve çözmek (decoding) için basit, sezgisel bir web uygulaması
+[Detection Lab](https://github.com/clong/DetectionLab)                                | Güvenlik araçları ve loglama en iyi uygulamalarıyla tamamlanmış bir laboratuvar ortamı oluşturmak için Vagrant & Packer scriptleri
+[Forensics](https://github.com/Cugu/awesome-forensics)                                 | Harika adli bilişim (forensics) analiz araçları ve kaynakları listesi
+[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)             | Geliştiriciler için ücretsiz programlama kitapları
+[Gray Hacker Resources](https://github.com/bt3gl/Gray-Hacker-Resources)             | CTF'ler, wargame'ler ve pentest için yararlı
+[GTFOBins](https://gtfobins.github.io)    | Saldırganların yerel güvenlik kısıtlamalarını atlamak (bypass) için kullanabileceği Unix binary'lerinin küratörlü listesi
+[Hacker101](https://github.com/Hacker0x01/hacker101) | HackerOne tarafından sunulan web güvenliği için ücretsiz bir sınıf
+[Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)                     | İnsanların Infosec hakkında bilgi edinmesine yardımcı olacak kaynaklar, belgeler, bağlantılar vb. koleksiyonu
+[Infosec Reference](https://github.com/rmusser01/Infosec_Reference)                 | Berbat Olmayan Bilgi Güvenliği Referansı
+[IOC](https://github.com/sroberts/awesome-iocs)                                     | Uzlaşma göstergeleri (indicators of compromise - IOC) kaynakları koleksiyonu
+[Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | Linux çekirdeği fuzzing ve istismarı (exploitation) ile ilgili bir dizi bağlantı
+[Lockpicking](https://github.com/meitar/awesome-lockpicking) | Kilitlerin, kasaların ve anahtarların güvenliği ve açılması ile ilgili kaynaklar
+[Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Siber güvenlik için makine öğrenimi kullanımıyla ilgili araçlar ve kaynakların küratörlü listesi
+[Payloads](https://github.com/foospidy/payloads)  | Web saldırı yükleri (payloads) koleksiyonu
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)   | Web Uygulama Güvenliği ve Pentest/CTF için yararlı payloadlar ve bypass listesi
+[Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)         | Pentest için yararlı kopya kağıtları (cheatsheets) koleksiyonu
+[Pentest Wiki](https://github.com/nixawk/pentest-wiki)                                 | Pentesterlar / araştırmacılar için ücretsiz çevrimiçi güvenlik bilgi kütüphanesi
+[Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Şifre oluşturma ve test etme için oluşturulmuş olasılığa göre sıralanmış wordlistler
+[Resource List](https://github.com/FuzzySecurity/Resource-List)                       | Gevşek bir şekilde kategorize edilmiş yararlı GitHub projeleri koleksiyonu
+[Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | Tersine Mühendislik (Reverse Engineering) makaleleri, kitapları ve bildirileri listesi
+[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)  | Radyo Frekansı İletişim Protokolü Hack Araçları Koleksiyonu
+[Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)         | Çeşitli infosec araçları ve konuları için kopya kağıtları (cheatsheets) koleksiyonu
+[Security List](https://github.com/zbetcheckin/Security_list)                          | Eğlence ve kazanç için harika güvenlik listesi
+[Shell](https://github.com/alebcay/awesome-shell)                                              | Shell'i tam verimle kullanmak için harika komut satırı frameworkleri, araç setleri, rehberler ve aletler listesi
+[ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | Kampanyaları avlamak için tekniklerin ve hipotezlerin geliştirilmesine yardımcı olacak bir Tehdit avcısı (Threat hunter) oyun kitabı
+[Web Security](https://github.com/qazbnm456/awesome-web-security) | Web Güvenliği materyalleri ve kaynaklarının küratörlü listesi
+[Vulhub](https://github.com/vulhub/vulhub) | Docker-Compose Tabanlı Önceden Oluşturulmuş Zafiyetli Ortamlar
 
-## Need More ?
+## Daha Fazlasına Mı İhtiyacınız Var?
 
-Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
+Güvenlik ile ilgili ilginç GitHub depoları hakkında günlük güncellemeler almak için favori sosyal medya platformunuzda **Hack with GitHub**'ı takip edin.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
-## Contributions
+## Katkılar
 
-Please have a look at [contributing.md](contributing.md)
+Lütfen [contributing.md](contributing.md) dosyasına göz atın
